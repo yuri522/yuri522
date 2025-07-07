@@ -17,7 +17,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula)
+![Estatísticas](https://github-readme-stats.vercel.app/api?Yuri=Yuri&show_icons=true&theme=dracula)
 
 ## 📫 Como me encontrar
 
