@@ -20,7 +20,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 - **Frameworks**: Spring Boot, Flask  
-- **Ferramentas**: Docker, AWS 
+- **Ferramentas**: Docker, AWS
+
+  ## ✨ Inspiração  
+
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier  
+💡 **Foco atual**: Me aprofundar em Java, desenvolvimento web e POWER BI!  
 
 ## 📫 Como me encontrar
 
