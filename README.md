@@ -25,8 +25,12 @@
 
 💡 **Foco atual**: Me aprofundar em Java, desenvolvimento web e POWER BI!  
 
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&size=35)](https://linkedin.com/in/yuri-gabriel-silva-b3309a248)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&size=35)](https://instagram.com/__silvaxp)
-
+## 📫 Como me encontrar:
+<p align="left">
+<a href="https://linkedin.com/in/yuri-gabriel-silva-b3309a248/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/__silvaxp/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
